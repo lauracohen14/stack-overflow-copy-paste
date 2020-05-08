@@ -7,6 +7,8 @@ export default cube
  * @return {Number} - Result of cube of a number
  */
 
+
+
 function cube(num) {
   return num * num * num
 }
